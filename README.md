@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me
+
+<h1 align = "left">Hi👋, this is Wonjin, a psychometrician whose research interest is scale development in the field of psychology.</h1>
+<h3 align = "left">I am working as a research associate in the department of psychology at the University of Victoria.</h3>
 
 <!--
 **noahwseo/noahwseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
