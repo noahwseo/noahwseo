@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align = "left">Hi👋, this is Wonjin, a psychometrician whose research interest is scale development in the field of psychology.</h1>
+<h1 align = "left">Hi👋, this is Wonjin, a passionate psychometrician from South Korea.</h1>
 <h3 align = "left">I am working as a research associate in the department of psychology at the University of Victoria.</h3>
 
 <!--
