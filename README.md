@@ -12,8 +12,8 @@
 
 <br />
 
-<h1 align="left">Hi 👋 This is Wonjin, a psychometrician from South Korea.</h1>
-<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
+<h1 align="left">Hi 👋 this is Wonjin, from South Korea.</h1>
+<h3 align="left">I serve as a psychometrician and research associate at the University of Victoria.</h3>
 
 - 👩‍💻 All of my projects are available at [here](https://)
 
